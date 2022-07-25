@@ -2,7 +2,7 @@
 - `🚀` Project Lead @ Droplet Systems
 - `🔥` Developer @ Ignite
 
-# Former Positions
+### Former Positions
 - `🐛` Moderator @ RoDevs
 
 I contribute to the open-source community!
