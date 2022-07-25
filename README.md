@@ -8,5 +8,5 @@
 ### Former Positions
 - `🐛` Moderator @ RoDevs
 
-### Noticies
+### Notices
 I contribute to the open-source community!
